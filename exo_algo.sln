@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Partie1", "Partie1\Partie1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "partie2", "partie2\partie2.csproj", "{B7DB0BB1-3158-4A8D-AA50-CBFF37CBFA62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yaourts", "yaourts\yaourts.csproj", "{159816F9-0470-4D60-823B-8C1B2228D665}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "yaourts", "yaourts\yaourts.csproj", "{159816F9-0470-4D60-823B-8C1B2228D665}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rechercheDicho", "rechercheDicho\rechercheDicho.csproj", "{3F094134-9D95-4005-818E-12C191DDB384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{159816F9-0470-4D60-823B-8C1B2228D665}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{159816F9-0470-4D60-823B-8C1B2228D665}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{159816F9-0470-4D60-823B-8C1B2228D665}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F094134-9D95-4005-818E-12C191DDB384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F094134-9D95-4005-818E-12C191DDB384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F094134-9D95-4005-818E-12C191DDB384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F094134-9D95-4005-818E-12C191DDB384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
