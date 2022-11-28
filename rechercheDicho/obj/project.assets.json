@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stagiaire\\Source\\Repos\\exo_algo_csharp\\Partie1\\Partie1.csproj",
-      "projectName": "Partie1",
-      "projectPath": "C:\\Users\\Stagiaire\\Source\\Repos\\exo_algo_csharp\\Partie1\\Partie1.csproj",
+      "projectUniqueName": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\rechercheDicho\\rechercheDicho.csproj",
+      "projectName": "rechercheDicho",
+      "projectPath": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\rechercheDicho\\rechercheDicho.csproj",
       "packagesPath": "C:\\Users\\Stagiaire\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stagiaire\\Source\\Repos\\exo_algo_csharp\\Partie1\\obj\\",
+      "outputPath": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\rechercheDicho\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -8,24 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Charv\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Stagiaire\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Charv\\OneDrive\\Bureau\\winforms\\exo_algo\\exo_algo\\exo_algo.csproj",
+      "projectUniqueName": "C:\\Users\\Stagiaire\\Source\\Repos\\exo_algo_csharp\\exo_algo\\exo_algo.csproj",
       "projectName": "exo_algo",
-      "projectPath": "C:\\Users\\Charv\\OneDrive\\Bureau\\winforms\\exo_algo\\exo_algo\\exo_algo.csproj",
-      "packagesPath": "C:\\Users\\Charv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Charv\\OneDrive\\Bureau\\winforms\\exo_algo\\exo_algo\\obj\\",
+      "projectPath": "C:\\Users\\Stagiaire\\Source\\Repos\\exo_algo_csharp\\exo_algo\\exo_algo.csproj",
+      "packagesPath": "C:\\Users\\Stagiaire\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Stagiaire\\Source\\Repos\\exo_algo_csharp\\exo_algo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Charv\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Stagiaire\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +32,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

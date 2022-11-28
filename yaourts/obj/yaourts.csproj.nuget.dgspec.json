@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\partie2\\partie2.csproj": {}
+    "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\yaourts\\yaourts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\partie2\\partie2.csproj": {
+    "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\yaourts\\yaourts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\partie2\\partie2.csproj",
-        "projectName": "partie2",
-        "projectPath": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\partie2\\partie2.csproj",
+        "projectUniqueName": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\yaourts\\yaourts.csproj",
+        "projectName": "yaourts",
+        "projectPath": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\yaourts\\yaourts.csproj",
         "packagesPath": "C:\\Users\\Stagiaire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\partie2\\obj\\",
+        "outputPath": "C:\\Users\\Stagiaire\\source\\repos\\exo_algo_csharp\\yaourts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
